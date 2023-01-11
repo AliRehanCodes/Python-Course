@@ -1,32 +1,34 @@
-print("Hello World")
+# print("Hello World")
 
-# # escape sequence
+# # # escape sequence
 
-# print("Hello I'm Ali")
-# print("line A \nLine B")
+# # print("Hello I'm Ali")
+# # print("line A \nLine B")
 
-# # Escape sequence as noramal text
+# # # Escape sequence as noramal text
 
-# print("Line A \\n Line B")
+# # print("Line A \\n Line B")
 
-# # Exeercise Chapter 01
+# # # Exeercise Chapter 01
 
-# print("This is \\\\ double backslash")
-# print("These are /\\/\\/\\/\\ mountain")
-# print("He is \t awesome")
-# print("\\\" \\n \\t \\")
+# # print("This is \\\\ double backslash")
+# # print("These are /\\/\\/\\/\\ mountain")
+# # print("He is \t awesome")
+# # print("\\\" \\n \\t \\")
 
-# variable
+# # variable
 
-# name = "Ali Rehan"
-# print(name)
-# number= 3
-# print(number)
+# # name = "Ali Rehan"
+# # print(name)asdklf
+# # number= 3
+# # print(number)
 
-# python as calculator
+# # python as calculator
 
-# precedence will be:
-# ()
-# exponent
-# *,/,//,%
-# +,-
+# # precedence will be:
+# # ()
+# # exponent
+# # *,/,//,%
+# # +,-
+
+# Updated
